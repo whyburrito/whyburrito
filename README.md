@@ -22,7 +22,7 @@ A dual-sided (B2B/B2C) food discovery and loyalty mobile app. Engineered with Fl
 *🏆 Special Participation Award — Operating Systems Capstone*
 A localized hardware monitoring hub using a Raspberry Pi Zero W and Python. I architected a firewall-bypassing "Push" REST API with mDNS resolution to track network-wide PC performance metrics with zero host overhead.
 
-***[👉 Click here to view all my repositories and past projects](https://github.com/whyburrito?tab=repositories)***
+**[👉 Click here to view all my repositories and past projects](https://github.com/whyburrito?tab=repositories)**
 
 ---
 
