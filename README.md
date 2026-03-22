@@ -1,4 +1,4 @@
-# Hi there, I'm Sean 👋
+# Hi there, welcome to my portfolio! 👋
 
 I'm a Computer Science student based in the Philippines, passionate about full-stack development, hardware integration, and building applications that solve real-world problems. Whether I'm designing serverless mobile apps or working with local IoT networks, I love tackling complex backend logic and system architecture.
 
