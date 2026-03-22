@@ -29,6 +29,3 @@ A localized hardware monitoring hub using a Raspberry Pi Zero W and Python. I ar
 When I'm not coding, you can usually find me building, benchmarking, or gaming on my rig:
 * **CPU:** AMD Ryzen 7 9800X3D
 * **GPU:** NVIDIA RTX 5070 Ti
-
-### 📫 Let's Connect
-* **Email:** sean.salvador0203@gmail.com
