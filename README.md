@@ -27,6 +27,8 @@ A localized hardware monitoring hub using a Raspberry Pi Zero W and Python. I ar
 ---
 
 ### ⚙️ Current Setup
-When I'm not coding, you can usually find me building, benchmarking, or gaming on my rig:
+When I'm not coding, you can usually find me building, benchmarking, or tuning my custom SFF rig:
 * **CPU:** AMD Ryzen 7 9800X3D
 * **GPU:** NVIDIA RTX 5070 Ti
+
+[![Watch the Build Timelapse](https://img.shields.io/badge/YouTube-Watch_PC_Build_Timelapse-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/watch?v=OZ9Gy9HIAE0)
