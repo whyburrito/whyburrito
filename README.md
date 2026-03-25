@@ -31,4 +31,4 @@ When I'm not coding, you can usually find me building, benchmarking, or tuning m
 * **CPU:** AMD Ryzen 7 9800X3D
 * **GPU:** NVIDIA RTX 5070 Ti
 
-[![Watch the Build Timelapse](https://img.shields.io/badge/YouTube-Watch_PC_Build_Timelapse-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/watch?v=OZ9Gy9HIAE0)
+[![Watch the Build Timelapse](https://img.shields.io/badge/YouTube-Watch_The_PC_Build_Timelapse-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/watch?v=OZ9Gy9HIAE0)
