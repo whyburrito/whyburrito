@@ -1,6 +1,6 @@
 # Hi there, welcome to my portfolio! 👋
 
-[![Visit My Portfolio Website](https://img.shields.io/badge/Visit_My_New_Website-whyburrito.github.io/Portfolio-0a0d14?style=for-the-badge&logo=vercel&logoColor=d4af37)](https://whyburrito.github.io/Portfolio/)
+[![Visit My Portfolio Website]](https://whyburrito.github.io/Portfolio/)
 
 I'm a Computer Science student based in the Philippines, passionate about full-stack development, hardware integration, and building applications that solve real-world problems. Whether I'm designing serverless mobile apps or working with local IoT networks, I love tackling complex backend logic and system architecture.
 
